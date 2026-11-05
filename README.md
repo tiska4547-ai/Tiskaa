@@ -1,0 +1,2 @@
+# Tiskaa
+Tugas pyton variable
